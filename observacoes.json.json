@@ -1,0 +1,110 @@
+[
+  {
+    "nome": "Ícone",
+    "id": "catIcone",
+    "botoes": [
+      {
+        "rotulo": "Obs 2 – Ícones",
+        "texto": "[OBSERVAÇÃO]: Tratado como OK, Conforme e-mail recebido pela Cielo no dia 19/02/2024.\n[ASSUNTO]: Considerações Certificação Lio e Smart.\n[OBSERVAÇÃO 2]: Os itens são apresentados em formas de ícones e não através dos itens numerados.\n[OBSERVAÇÃO 3]: Vide Documentação‑Funcional‑Cielo Smart‑R16, Página 30."
+      }
+    ]
+  },
+  {
+    "nome": "PIX",
+    "id": "catPIX",
+    "botoes": [
+      {
+        "rotulo": "Obs 3 – Aguarde",
+        "texto": "[ERRO DE ROTEIRO]: Após selecionar a opção de pagamento PIX o display do terminal apresenta as seguintes informações:\nConfirme alguns dados para receber via Pix\nprecisamos que você confirme alguns dados antes de ativar o Pix na maquininha\n(Confirmar dados)\n(Sobre Pix)\n[OBSERVAÇÃO]: Para que seja dado continuidade ao fluxo, é necessário selecionar a opção (Sobre Pix).\n[EVIDÊNCIA]: Vide Documentação Funcional - Cielo Smart, Página 35."
+      },
+      {
+        "rotulo": "Obs 4 – O que é",
+        "texto": "[ERRO DE ROTEIRO]: O display do terminal apresenta as informações da seguinte forma:\nAtivar o Pix\nInformações sobre o Pix...\n(Ativar Pix)\n(Voltar)\n[EVIDÊNCIA]: Vide Documentação Funcional - Cielo Smart, Página 35."
+      },
+      {
+        "rotulo": "Obs 5 – Habilitar",
+        "texto": "[ERRO DE ROTEIRO]: O display do terminal apresenta as informações da seguinte forma:\nTermo de Habilitação do Pix\nInformações sobre o termo no display...\n(Aceitar o termo)\n(Recusar o termo)\n[EVIDÊNCIA]: Vide Documentação Funcional - Cielo Smart, Página 35."
+      },
+      {
+        "rotulo": "Obs 6 – Selecionar Sim",
+        "texto": "[ERRO DE ROTEIRO]: Para que possa ser confirmado as informações, Código do Banco, Agência Bancária e Conta Corrente é necessário selecionar a opção (Sobre o Pix) e logo em seguida (Ativar o Pix) e confirmar o termo de habilitação do Pix, selecionando a opção (Aceitar termo).\n[OBSERVAÇÃO]: Vide Documentação Funcional - Cielo Smart, Página 35."
+      },
+      {
+        "rotulo": "Obs 7 – Verif. Display",
+        "texto": "[ERRO DE ROTEIRO]: Após digitar os dados correspondentes e confirmar, o display do terminal apresenta a seguinte mensagem:\nSeus dados foram enviados\nQuando seus dados forem confirmados, você já vai poder receber via Pix na maquininha.\n(Voltar para Pagamento)\n[OBSERVAÇÃO]: Vide Documentação Funcional - Cielo Smart, Página 36."
+      },
+      {
+        "rotulo": "Obs 8 – Devolução",
+        "texto": "[OBSERVAÇÃO]: Tratado como OK, Conforme e-mail recebido pela Cielo no dia 19/02/2024.\n[ASSUNTO]: Considerações Certificação Lio e Smart.\n[Particularidade]: Após o preenchimento da data e DOC, o display do terminal exibe as informações da seguinte forma:\nInforme o valor a ser devolvido\nR$0,00\nJoao Silva\nTipo: Pix\nData: 16/04/25\nValor total: 0,00\nDOC: XXXXXXXX\n[OBSERVAÇÃO]: Vide Documentação Funcional - Cielo Smart, Página 41."
+      }
+    ]
+  },
+  {
+    "nome": "Cancelamento",
+    "id": "catCancel",
+    "botoes": [
+      {
+        "rotulo": "Obs 9 – Fluxo c/ Senha",
+        "texto": "[OBSERVAÇÃO]: Tratado como OK, Conforme e-mail recebido pela Cielo no dia 19/02/2024.\n[ASSUNTO]: Considerações Certificação Lio e Smart.\n[Particularidade]: Ao selecionar a opção <Cancelamento> no canto inferior esquerdo e logo em seguida selecionar o estabelecimento, o display do terminal segue o fluxo apresentando a seguinte tela:\nCadastrar senha do supervisor\nVocê precisa cadastrar uma senha de supervisor para prosseguir. Será necessário informar o código do banco, a agência e o número da conta.\n(Cadastrar senha de supervisor)\n[OBSERVAÇÃO]: Documentação Funcional - Cielo Smart, Páginas 42 e 43 – Passo 4.1.3 Fluxo Cancelamento."
+      },
+      {
+        "rotulo": "Obs 10 – Canc. PIX",
+        "texto": "[OBSERVAÇÃO]: Tratado como OK, Conforme e-mail recebido pela Cielo no dia 19/02/2024.\n[ASSUNTO]: Considerações Certificação Lio e Smart.\n[Particularidade]: O terminal não contém teclado físico (CANCELAR, LIMPA, ENTER); para cancelar, clique na opção <Cancelamento> no canto inferior esquerdo.\n[OBSERVAÇÃO]: Vide Documentação Funcional - Cielo Smart, Páginas 42 e 43.\n[Particularidade]: Após selecionar Cancelamento, o display apresenta:\nCancelamento\n(Ícone Cartão – Solução Cielo)\n(Ícone PIX – Pagamento PIX)\n[OBSERVAÇÃO]: Documentação Funcional - Cielo Smart, Página 43 – Passo 4.1.3 Fluxo Cancelamento."
+      },
+      {
+        "rotulo": "Obs 11 – Ícones",
+        "texto": "[OBSERVAÇÃO]: Tratado como OK, Conforme e-mail recebido pela Cielo no dia 19/02/2024.\n[ASSUNTO]: Considerações Certificação Lio e Smart.\n[Particularidade]: Após selecionar a opção CANCELAMENTO o display do terminal exibe as informações da seguinte forma:\nCancelamento\nCartão e QR Code\nPix\n[OBSERVAÇÃO]: Vide Documentação Funcional - Cielo Smart, Página 44."
+      }
+    ]
+  },
+  {
+    "nome": "Função 73 / Reimpressão PIX",
+    "id": "catReimp",
+    "botoes": [
+      {
+        "rotulo": "Obs 12 – Soluções Cielo",
+        "texto": "[OBSERVAÇÃO]: Tratado como OK, Conforme e-mail recebido pela Cielo no dia 19/02/2024.\n[ASSUNTO]: Considerações Certificação Lio e Smart.\n[Particularidade]: Ao teclar função 73 o display do terminal exibe as informações da seguinte forma:\nReimpressão\nSoluções Cielo\nPix\n[OBSERVAÇÃO]: Vide Documentação Funcional - Cielo Smart, Página 48."
+      },
+      {
+        "rotulo": "Obs 13 – Como deseja?",
+        "texto": "[OBSERVAÇÃO]: Tratado como OK, Conforme e-mail recebido pela Cielo no dia 19/02/2024.\n[ASSUNTO]: Considerações Certificação Lio e Smart.\n[Particularidade]: Após a seleção do estabelecimento o display do terminal exibe as informações da seguinte forma:\nReimpressão Pix\nComo você deseja obter o último comprovante?\n(Visualizar na tela)\n(Imprimir comprovante)\n[OBSERVAÇÃO]: Vide Documentação Funcional - Cielo Smart, Página 39."
+      },
+      {
+        "rotulo": "Obs 14 – Que via?",
+        "texto": "[OBSERVAÇÃO]: Tratado como OK, Conforme e-mail recebido pela Cielo no dia 19/02/2024.\n[ASSUNTO]: Considerações Certificação Lio e Smart.\n[Particularidade]: Após selecionar a opção IMPRIMIR COMPROVANTE o display do terminal exibe as informações da seguinte forma:\nQue via você deseja imprimir?\n(Via do estabelecimento)\n(Via do cliente)\n(Todas as vias)\n[OBSERVAÇÃO]: Vide Documentação Funcional - Cielo Smart, Página 39."
+      },
+      {
+        "rotulo": "Obs 15 – Exibe na tela",
+        "texto": "[OBSERVAÇÃO]: Tratado como OK, Conforme e-mail recebido pela Cielo no dia 19/02/2024.\n[ASSUNTO]: Considerações Certificação Lio e Smart.\n[Particularidade]: Ao selecionar a opção de exibir a reimpressão na tela, o display do terminal apresenta as informações da seguinte forma:\nTransação Aprovada\nValor        R$0,00\nDe    NNNNNNNNNNNNN\nCPF/CNPJ GGGGGGGGGG\nPara LLLLLLLLLLLLLL\nChave XXX***XXX\nID IIIIIIIIIIIIIIII\nData/Hora DDDDDDDDD\n(Voltar para o inicio)\n[OBSERVAÇÃO]: Vide Documentação Funcional - Cielo Smart, Página 40."
+      },
+      {
+        "rotulo": "Obs 16 – Função 73",
+        "texto": "[OBSERVAÇÃO]: Tratado como OK, Conforme e-mail recebido pela Cielo no dia 19/02/2024.\n[ASSUNTO]: Considerações Certificação Lio e Smart.\n[Particularidade]: Ao teclar a Função 73, o display do terminal apresenta as informações da seguinte forma:\nReimpressão\n(Ícone Cartão – Solução Cielo)\n(Ícone PIX – Pagamento PIX)\n[OBSERVAÇÃO]: Vide Documentação Funcional - Cielo Smart, Página 39 – Passo Reimpressão PIX (Ambas as vias)."
+      }
+    ]
+  },
+  {
+    "nome": "Senha Supervisor",
+    "id": "catSenha",
+    "botoes": [
+      {
+        "rotulo": "Obs 17 – Cadastrar Senha",
+        "texto": "[OBSERVAÇÃO]: Tratado como OK, Conforme e-mail recebido pela Cielo no dia 19/02/2024.\n[ASSUNTO]: Considerações Certificação Lio e Smart.\n[Particularidade]: Após a exibição da mensagem (Senha supervisor não cadastrada) o display do terminal exibe as informações da seguinte forma:\nCadastrar senha de supervisor\nVocê precisa cadastrar uma senha de supervisor para prosseguir. Será necessário informar o código do banco, a agência e o número da conta.\n(Cadastrar senha de supervisor)\n[OBSERVAÇÃO]: Vide Documentação Funcional - Cielo Smart, Página 44."
+      },
+      {
+        "rotulo": "Obs 18 – Cadastro sucesso",
+        "texto": "[OBSERVAÇÃO]: Tratado como OK, Conforme e-mail recebido pela Cielo no dia 19/02/2024.\n[ASSUNTO]: Considerações Certificação Lio e Smart.\n[Particularidade]: Após digitar os dados para cadastro de senha de supervisor, o display do terminal exibe a seguinte mensagem:\nSenha supervisor cadastrada com sucesso\n[OBSERVAÇÃO]: Vide Documentação Funcional - Cielo Smart, Página 45."
+      }
+    ]
+  },
+  {
+    "nome": "Impressão",
+    "id": "catImpressao",
+    "botoes": [
+      {
+        "rotulo": "Obs 19 – Impressão",
+        "texto": "[OBSERVAÇÃO]: Tratado como OK, Conforme e-mail recebido pela Cielo no dia 19/02/2024.\n[ASSUNTO]: Considerações Certificação Lio e Smart.\n[ERRO DE ROTEIRO]: No terminal Cielo Smart, as informações no display do terminal são apresentadas da seguinte forma:\nComo deseja entregar a via do cliente?\nImprimir\nNão imprimir\n[OBSERVAÇÃO]: Vide Documentação Funcional - Cielo Smart, Página 30."
+      }
+    ]
+  }
+]
