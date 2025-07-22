@@ -1,0 +1,122 @@
+[
+  {
+    "nome": "Cancelamento",
+    "id": "catCancelamento",
+    "botoes": [
+      {
+        "rotulo": "Obs 01",
+        "texto": "Para realizar o cancelamento é necessário ir na aba MINHA LIO > CANCELAMENTO DE VENDAS.\n [OBSERVAÇÃO]:Vide DOCUMENTAÇÃO FUNCIONAL - CIELO LIO_V0, Página 88." 
+      },
+      {
+        "rotulo": "Obs 02",
+        "texto": "Ao selecionar o produto CREDIARIO, no display do terminal é apresentado os produtos secundário \n conforme a tabela D0:Só é possível seguir com o fluxo caso um dos dois produtos secundários \n [Venda ou Simulação] seja selecionado para o cancelamento.\n [OBSERVAÇÃO2]: Vide Especificação Técnica e Funcional TEF Multibandeira Release_13-04, Páginas 168 e 169, Passos 24 e 25"
+      }
+    ]
+  },
+  {
+    "nome": "Layout e Interface",
+    "id": "catLayouteInterface",
+    "botoes": [
+      {
+        "rotulo": "Obs 03",
+        "texto": "A disposição do Display da LIO é apresentado através de ícones, não através de itens numerados.\n [OBSERVAÇÃO]: Vide DOCUMENTAÇÃO FUNCIONAL - CIELO LIO_V0, Página 76."
+      },
+      {
+        "rotulo": "Obs 04",
+        "texto": "No display do terminal é apresentado a seguinte mensagem: Puxe para pagar com QR Code.\n [OBSERVAÇÃO]:Para que o QR Code seja apresentado é necessário arrastar \n a tela do touch para cima, ao teclar a ENTER nada acontece"
+      },
+      {
+        "rotulo": "Obs 05",
+        "texto": "No display do terminal as informações \n são apresentadas da seguinte \n forma: Parc. adm \n Valor: \n XX,XX \n Digite a senha.\n [OBSERVAÇÃO]: Vide DOCUMENTAÇÃO FUNCIONAL - CIELO LIO_V0, Página 85."
+      }
+    ]
+  },
+  {
+    "nome": "Funcionalidades e Menus",
+    "id": "catFuncionalidadeseMenus",
+    "botoes": [
+      {
+        "rotulo": "Obs 06",
+        "texto": "A Função 73 é inativa na solução LIO. \n De acordo com a DOCUMENTAÇÃO FUNCIONAL - CIELO LIO_V0, página 47"
+      },
+      {
+        "rotulo": "Obs 07",
+        "texto": "A Função 16 – Agendamento de Impressão de Relatórios - Inativa. \n VIDE: Especificação Técnica e Funcional Funções Release_13-04, Pagina 27. "
+      },
+      {
+        "rotulo": "Obs 08",
+        "texto": "Para acessar o fluxo de, Inicialização, Tst Comunic, \n Senha Supervisor e Senha do Operador, é através da aba Ajuda > Minha LIO > Funções administrativas.\n [OBSERVAÇÃO]: Vide Documentação Funcional - Cielo LIO_V0, Página 64. "
+      },
+      {
+        "rotulo": "Obs 09",
+        "texto": "Após desbloqueio do terminal, solução deve apresentar tela Idle do terminal.\n [OBSERVAÇÃO]: Vide DOCUMENTAÇÃO FUNCIONAL - CIELO LIO_V0, página 82."
+      }
+    ]
+  },
+  {
+    "nome": "Comprovante e Reimpressão",
+    "id": "catComprovanteeReimpressão",
+    "botoes": [
+      {
+        "rotulo": "Obs 10",
+        "texto": "Reimpressão de comprovantes deve seguir \n o fluxo: Minha LIO > Comprovantes.\n Lista ou Detalhado > Última transação > Segunda via > Imprimir > Via estabelecimento ou Via cliente. \n De acordo com a DOCUMENTAÇÃO FUNCIONAL - CIELO LIO_V0, página 47."
+      }
+    ]
+  },
+  {
+    "nome": "Ajustes e Configurações",
+    "id": "catAjusteseConfigurações",
+    "botoes": [
+      {
+        "rotulo": "Obs 11",
+        "texto": "Para acessar a porcentagem de nível da bateria <<Ajustes >> Bateria.\n [OBSERVAÇÃO]:Vide DOCUMENTAÇÃO FUNCIONAL - CIELO LIO_V0, Página 63."
+      },
+      {
+        "rotulo": "Obs 12",
+        "texto": "Após desbloquear a LIO, vai para a \n tela de Configuração do terminal automaticamente.\n [OBSERVAÇÃO]: Vide DOCUMENTAÇÃO FUNCIONAL - CIELO LIO_V0, página 82."
+      }
+    ]
+  },
+  {
+    "nome": "Testes e Funções Técnicas",
+    "id": "catTesteseFunçõesTécnicas",
+    "botoes": [
+      {
+        "rotulo": "Obs 13",
+        "texto": "Função <84> (Teste de teclado) não é contemplada.\n Documentação Funcional - Cielo LIO a função <84> pag 48"
+      },
+      {
+        "rotulo": "Obs 14",
+        "texto": "Função <09> (Boot do terminal) não é contemplada.\n Documentação Funcional Cielo LIO Versão 1.0 - pág 46"
+      },
+      {
+        "rotulo": "Obs 15",
+        "texto": "Função <02> (Configuração do terminal - telefone etc.) não é contemplada.\n Documentação Funcional Cielo LIO Versão 1.0 - pág 45"
+      },
+      {
+        "rotulo": "Obs 16",
+        "texto": "Função 99 na LIO V3 é usada somente para zerar a solução."
+      }
+    ]
+  },
+  {
+    "nome": "Mensagens e Bits",
+    "id": "catMensagenseBits",
+    "botoes": [
+      {
+        "rotulo": "Obs 17",
+        "texto": "BIT 22 e 35 estourados devido a ter lido a trilha 1 do cartão,\n bit 34 estourado devido ao código de segurança estar ilegível\n bit 62 ausente devido a este passo ter \n sido executado de forma isolada.\n[OBSERVAÇÂO]: Vide a Especificação Técnica e Funcional\n Mensagem ISO Release_13-03, pag 12 e 14, Bit 22 e 35"
+      }
+    ]
+  },
+  {
+    "nome": "Itens Não Aplicáveis",
+    "id": "catItensNãoAplicáveis",
+    "botoes": [
+      {
+        "rotulo": "Obs 18",
+        "texto": "Solução LIO não contempla o produto Coban (pagamento de contas etc.).\n[OBSERVAÇÃO]: Vide DOCUMENTAÇÃO FUNCIONAL - CIELO LIO_V0, página 45 e \n Especificação Técnica e Funcional TEF Multibandeira Release_13-04, página 3"
+      }
+    ]
+  }
+]
